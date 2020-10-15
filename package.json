@@ -1,0 +1,12 @@
+{
+  "name": "microposts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "bundle": "webpack src/app.js build/app.bundle.js --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
