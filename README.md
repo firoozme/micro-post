@@ -1,20 +1,6 @@
-Simple blogPost Using Local Storage as DataBase With CRUD
+Simple blogPost 
+.Local Storage as DataBase
+.Full CRUD
+.Module Design Pattern
 ### Version
-1.0.0
-
-## Usage
-
-### Installation
-
-Install Webpack 
-
-```sh
-$ npm install webpack
-```
-
-### Bundle
-
-
-```sh
-$ npm run bundle
-```
+2.0.0
