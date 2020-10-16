@@ -1,4 +1,8 @@
-Simple blogPost Using Local Storage as DataBase With CRUD
+Simple blogPost
+.Local Storage as DataBase 
+.Full CRUD
+.using Modules
+
 ### Version
 1.0.0
 
