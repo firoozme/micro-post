@@ -25,7 +25,7 @@ posts.addEventListener('click',deleteBtnClick);
 posts.addEventListener('click',editBtnClick);
 //Back Button Click
 backBtn.addEventListener('click',backBtnClick);
-//Back Button Click
+//Update Button Click
 updateBtn.addEventListener('click',updateBtnClick);
 
 //FUNCTIONS
